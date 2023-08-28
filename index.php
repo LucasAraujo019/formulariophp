@@ -17,7 +17,7 @@
             <label for="email">E-mail</label>
             <input type="email" name="email" id="email" required>
             <label for="tel">Telefone</label>
-            <input type="tel" name="tel" id="tel">
+            <input type="tel" name="tel" id="tel" required>
             <label for="date">Data de Nascimento</label>
             <input type="date" name="dataNasc" id="dataNasc" required>
             <input type="submit" value="Enviar">
